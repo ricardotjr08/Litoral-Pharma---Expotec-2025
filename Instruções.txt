@@ -1,0 +1,13 @@
+Passo a Passo para baixar o aplicativo.
+
+
+1. Baixar o ZIP pelo site e extrair ele na área de trabalho
+
+2. Abrir a pasta "Litoral Pharma" e no topo, no explorador de arquivos, clicar na barra lá em cima e copiar o lugar que a pasta está.
+Ex: "C:\Users\Você\Ambiente de Trabalho\Litoral Pharma\"
+
+3. Clicar com o botão direito no "litoralpharma.reg" e editar ele, mudando a última linha pelo lugar da pasta.
+
+4. Adicionar uma "\" extra para cada separação.
+
+5. Adicionar "Litoral Pharma.exe\\" no final.

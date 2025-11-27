@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\litoralpharma]
+@="URL:Litoral Pharma Protocol"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\litoralpharma\shell]
+
+[HKEY_CLASSES_ROOT\litoralpharma\shell\open]
+
+[HKEY_CLASSES_ROOT\litoralpharma\shell\open\command]
+@="\"C:\\Users\\dinho\\OneDrive\\Ambiente de Trabalho\\Litoral Pharma\\Litoral Pharma.exe\""
